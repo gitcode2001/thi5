@@ -1,0 +1,387 @@
+{
+  "order": [
+    {
+      "id": "1",
+      "code": "P101",
+      "startDate": "2024-11-12",
+      "totalAmount": 10.99,
+      "quantity": "100",
+      "products": [
+        {
+          "name": "Iphone x",
+          "product": "iphone",
+          "quantity": "100"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "code": "202",
+      "startDate": "2024-11-15",
+      "totalAmount": 12.99,
+      "quantity": "150",
+      "products": [
+        {
+          "name": "Iphone x",
+          "product": "iphone",
+          "quantity": "50"
+        }
+      ]
+    },
+    {
+      "id": "5022",
+      "code": "P9231",
+      "name": "An Bình a",
+      "categories": {
+        "codeProduct": "P1233",
+        "name": "Samsung galaxy",
+        "price": 1500,
+        "productType": "điện thoại",
+        "id": "4034"
+      },
+      "price": 1,
+      "quantity": "01",
+      "startDate": "2025-02-05"
+    },
+    {
+      "id": "7f49",
+      "code": "PROD-1113",
+      "startDate": "2025-02-07",
+      "totalAmount": 123,
+      "quantity": "123",
+      "products": [
+        {
+          "product": "123",
+          "quantity": "12"
+        }
+      ]
+    },
+    {
+      "id": "9246",
+      "code": "PROD-1113",
+      "startDate": "2025-02-05",
+      "totalAmount": 123,
+      "quantity": "12",
+      "products": [
+        {
+          "product": "123",
+          "quantity": "123"
+        }
+      ]
+    },
+    {
+      "id": "88bd",
+      "code": "PROD-1113",
+      "startDate": "2025-02-05",
+      "totalAmount": 123,
+      "quantity": "12",
+      "products": [
+        {
+          "product": "123",
+          "quantity": "123"
+        }
+      ]
+    },
+    {
+      "id": "2367",
+      "code": "P000",
+      "startDate": "2025-02-04",
+      "totalAmount": 123,
+      "quantity": "123",
+      "products": [
+        {
+          "product": "123",
+          "quantity": "123"
+        }
+      ]
+    },
+    {
+      "id": "cab1",
+      "code": "12",
+      "startDate": "2025-02-05",
+      "totalAmount": 123,
+      "quantity": "12",
+      "products": [
+        {
+          "name": "1",
+          "product": "23",
+          "quantity": "12"
+        }
+      ]
+    },
+    {
+      "id": "0711",
+      "code": "PROD-1113",
+      "startDate": "2025-02-05",
+      "totalAmount": 123,
+      "quantity": "123",
+      "products": [
+        {
+          "product": "132",
+          "quantity": "123"
+        }
+      ]
+    },
+    {
+      "id": "12f0",
+      "code": "PROD-1113",
+      "startDate": "2025-02-05",
+      "totalAmount": 111,
+      "quantity": "123",
+      "products": [
+        {
+          "product": "132",
+          "quantity": "123"
+        }
+      ]
+    },
+    {
+      "id": "a923",
+      "code": "213",
+      "startDate": "2025-02-05",
+      "totalAmount": 12312,
+      "quantity": "2313",
+      "products": [
+        {
+          "product": "Samsung galaxy",
+          "quantity": "123"
+        }
+      ]
+    },
+    {
+      "id": "b340",
+      "code": "PROD-1113",
+      "startDate": "2025-02-12",
+      "totalAmount": 123,
+      "quantity": "123",
+      "products": [
+        {
+          "product": "Samsung galaxy",
+          "quantity": "1"
+        }
+      ]
+    },
+    {
+      "id": "3847",
+      "code": "PROD-1113",
+      "startDate": "2025-02-12",
+      "totalAmount": 123,
+      "quantity": "123",
+      "products": [
+        {
+          "product": "Samsung galaxy",
+          "quantity": "1"
+        }
+      ]
+    },
+    {
+      "id": "f888",
+      "code": "PROD-1113",
+      "startDate": "2025-02-12",
+      "totalAmount": 123,
+      "quantity": "123",
+      "products": [
+        {
+          "product": "Samsung galaxy",
+          "quantity": "1"
+        }
+      ]
+    },
+    {
+      "id": "5fe9",
+      "code": "PROD-1113",
+      "startDate": "2025-02-12",
+      "totalAmount": 123,
+      "quantity": "123",
+      "products": [
+        {
+          "product": "Samsung galaxy",
+          "quantity": "1"
+        }
+      ]
+    },
+    {
+      "id": "b17f",
+      "code": "PROD-1113",
+      "startDate": "2025-02-12",
+      "totalAmount": 123,
+      "quantity": "123",
+      "products": [
+        {
+          "product": "Samsung galaxy",
+          "quantity": "1"
+        }
+      ]
+    },
+    {
+      "id": "a4e3",
+      "code": "PROD-1113",
+      "startDate": "2025-02-05",
+      "totalAmount": 12321,
+      "quantity": "123",
+      "products": [
+        {
+          "product": "Acer 5302",
+          "quantity": "1"
+        }
+      ]
+    },
+    {
+      "id": "7459",
+      "code": "123",
+      "startDate": "2025-02-05",
+      "totalAmount": 12312,
+      "quantity": "12",
+      "products": [
+        {
+          "product": "Samsung galaxy",
+          "quantity": "123"
+        },
+        {
+          "product": "Samsung galaxy",
+          "quantity": "12"
+        }
+      ]
+    },
+    {
+      "id": "6f76",
+      "code": "123",
+      "startDate": "2025-02-05",
+      "totalAmount": 123,
+      "quantity": "12",
+      "products": [
+        {
+          "product": "Samsung galaxy",
+          "quantity": "1"
+        }
+      ]
+    },
+    {
+      "id": "df2e",
+      "code": "123",
+      "startDate": "2025-02-05",
+      "totalAmount": 123,
+      "quantity": "12",
+      "products": [
+        {
+          "product": "Samsung galaxy",
+          "quantity": "1"
+        }
+      ]
+    },
+    {
+      "id": "6415",
+      "code": "123",
+      "startDate": "2025-02-05",
+      "totalAmount": 123,
+      "quantity": "12",
+      "products": [
+        {
+          "product": "Samsung galaxy",
+          "quantity": "1"
+        }
+      ]
+    },
+    {
+      "id": "7065",
+      "code": "123",
+      "startDate": "2025-02-05",
+      "totalAmount": 123,
+      "quantity": "12",
+      "products": [
+        {
+          "product": "Samsung galaxy",
+          "quantity": "1"
+        }
+      ]
+    },
+    {
+      "id": "5d6c",
+      "code": "",
+      "startDate": "",
+      "totalAmount": 0,
+      "quantity": "",
+      "products": [
+        {
+          "product": "",
+          "quantity": ""
+        }
+      ]
+    },
+    {
+      "id": "7475",
+      "code": "",
+      "startDate": "",
+      "totalAmount": 0,
+      "quantity": "",
+      "products": [
+        {
+          "product": "",
+          "quantity": ""
+        }
+      ]
+    },
+    {
+      "id": "ccd3",
+      "code": "PROD-1113",
+      "startDate": "2025-02-05",
+      "totalAmount": 123,
+      "quantity": "123",
+      "products": [
+        {
+          "product": "Acer 5302",
+          "quantity": "1"
+        }
+      ]
+    },
+    {
+      "id": "b9ab",
+      "code": "PROD-1113",
+      "startDate": "2025-02-05",
+      "totalAmount": 123,
+      "quantity": "123",
+      "products": [
+        {
+          "product": "Acer 5302",
+          "quantity": "1"
+        }
+      ]
+    },
+    {
+      "id": "fc17",
+      "code": "PROD-1113",
+      "startDate": "2025-02-05",
+      "totalAmount": 123,
+      "quantity": "12",
+      "products": [
+        {
+          "product": "Iphone x",
+          "quantity": "1"
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "codeProduct": "P1222",
+      "name": "Iphone x",
+      "price": 1000,
+      "productType": "điên thoại",
+      "id": "c328"
+    },
+    {
+      "codeProduct": "P1233",
+      "name": "Samsung galaxy",
+      "price": 1500,
+      "productType": "điện thoại",
+      "id": "4034"
+    },
+    {
+      "codeProduct": "P1244",
+      "name": "Acer 5302",
+      "price": 800,
+      "productType": "Laptop",
+      "id": "b762"
+    }
+  ]
+}
